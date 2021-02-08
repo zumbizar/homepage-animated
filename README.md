@@ -1,6 +1,6 @@
 # Homepage Animada do Typeform :computer: 
 
-Homepage feita com o React e Framer Motion! 
+Homepage feita com o React e Framer Motion!!
 
 <img src="https://user-images.githubusercontent.com/68034298/105087099-c1448280-5a78-11eb-9124-7e928d00bfd4.gif">
 
